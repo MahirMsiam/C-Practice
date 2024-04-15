@@ -14,8 +14,9 @@ for (int i = 0; i < n; i++) {
     } else {
         x--;
     }
+    cout << x << endl;
 }
-cout << x << endl;
+
 
     return 0;
 }
