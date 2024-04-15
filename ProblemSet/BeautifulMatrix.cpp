@@ -17,6 +17,8 @@ int main()
             }
         }
     }
+    cout << abs(x - 2) + abs(y - 2) << endl;
+    
 
     return 0;
 }
