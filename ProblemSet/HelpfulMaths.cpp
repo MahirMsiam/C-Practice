@@ -5,6 +5,7 @@ int main()
 {
     string s;
     cin >> s;
+    vector<int> v;
 
 
 
