@@ -10,6 +10,18 @@ int main()
         s1[i] = tolower(s1[i]);
         s2[i] = tolower(s2[i]);
     }
+    if (s1 < s2)
+    {
+        cout << -1 << endl;
+    }
+    else if (s1 > s2)
+    {
+        cout << 1 << endl;
+    }
+    else
+    {
+        cout << 0 << endl;
+    }
 
 
 
