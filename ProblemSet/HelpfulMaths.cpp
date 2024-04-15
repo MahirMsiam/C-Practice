@@ -6,6 +6,13 @@ int main()
     string s;
     cin >> s;
     vector<int> v;
+    for (int i = 0; i < s.size(); i++)
+    {
+        if (s[i] != '+')
+        {
+            v.push_back(s[i] - '0');
+        }
+    }
 
 
 
