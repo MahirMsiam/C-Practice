@@ -1,4 +1,4 @@
-//Bear and Big Brother (Codeforces)
+// Bear and Big Brother (Codeforces)
 #include <bits/stdc++.h>
 using namespace std;
 int main()
@@ -14,7 +14,4 @@ int main()
     }
     cout << years << endl;
     return 0;
-    
 }
-
-
