@@ -17,5 +17,6 @@ int main()
             cout << (char)tolower(s[i]);
         }
     }
+    cout << endl;
     
 }
