@@ -12,6 +12,7 @@ int main()
         b *= 2;
         years++;
     }
+    cout << years << endl;
     
 }
 
