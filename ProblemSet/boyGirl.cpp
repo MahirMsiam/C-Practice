@@ -19,5 +19,5 @@ int main()
         cout << "IGNORE HIM!" << endl;
     }
     return 0;
-   
+
 }
