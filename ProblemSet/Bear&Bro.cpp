@@ -5,6 +5,7 @@ int main()
 {
     int a, b;
     cin >> a >> b;
+    int years = 0;
     
 }
 
