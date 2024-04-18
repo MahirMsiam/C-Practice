@@ -2,6 +2,8 @@
 //there are multiple Issues in this code
 //1. The game is not ending after the game is won or draw
 //2. The game is not displaying the correct winner
+//3. The game is not displaying the correct player turn
+
 
 #include <iostream>
 #include <stdlib.h>
