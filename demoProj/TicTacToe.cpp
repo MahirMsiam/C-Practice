@@ -5,7 +5,8 @@
 //3. The game is not displaying the correct player turn
 //4. The game is not displaying the correct board after the player has played his turn
 //5. The game is not displaying the correct message when the player has selected the position which is already filled
-//6. The game is not displaying the correct message when the player has selected the invalid position
+//6. The game is not displaying the correct message when the player has selected the invalid position\
+//7. The game is not displaying the correct message when the player has selected the invalid position
 
 
 #include <iostream>
