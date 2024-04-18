@@ -60,7 +60,7 @@ int main()
 
     char currentPlayer = 'X';
     int row, col;
-
+    cout << "This game was created by kakashitake [CAPTAIN #7770]" << endl;
     cout << "Welcome to Tic Tac Toe!" << endl;
     cout << "Player 1: X" << endl;
     cout << "Player 2: O" << endl;
