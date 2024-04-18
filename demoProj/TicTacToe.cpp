@@ -3,6 +3,7 @@
 //1. The game is not ending after the game is won or draw
 //2. The game is not displaying the correct winner
 //3. The game is not displaying the correct player turn
+//4. The game is not displaying the correct board after the player has played his turn
 
 
 #include <iostream>
