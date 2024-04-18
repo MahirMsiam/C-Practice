@@ -1,4 +1,7 @@
 //Tic Tac Toe Game in C++
+//there are multiple Issues in this code
+//1. The game is not ending after the game is won or draw
+//2. The game is not displaying the correct winner
 
 #include <iostream>
 #include <stdlib.h>
